@@ -29,7 +29,7 @@ body{
     display: flex;
     flex-direction: 'row';
     background-color: rgb(57, 80, 80);
-    width:auto;
+    width:30%;
     height: 400px;
 }
 
