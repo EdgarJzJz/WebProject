@@ -15,8 +15,8 @@ body{
 
 .element{
     text-align: center;
-    margin: auto;
-    display: block;
+    margin: 10px;
+    display: inline-flex;
     margin-left: 10px;
     color:azure;
 }
@@ -26,7 +26,7 @@ body{
     font-size:larger;
     text-align: center;
     margin:15px;
-    display: 'row';
+    display: inline-flex;
     background-color: rgb(57, 80, 80);
     width:auto;
     height: 400px;
