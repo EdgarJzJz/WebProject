@@ -26,7 +26,7 @@ body{
     font-size:larger;
     text-align: center;
     margin:15px;
-    display: flexbox;
+    display: 'row';
     background-color: rgb(57, 80, 80);
     width:auto;
     height: 400px;
