@@ -18,11 +18,11 @@ body{
     margin: 10px;
     display: inline-flex;
     margin-left: 10px;
-    color:azure;
+    color:rgb(255, 255, 255);
 }
 
 .Servicios{
-    color: beige;
+    color:rgb(255, 255, 255);
     font-size:larger;
     text-align: center;
     margin:15px;
@@ -39,10 +39,10 @@ body{
     height: 350px;
     text-align: center;
     border-radius: 8%;
-    color: aliceblue;
+    color: rgb(255, 255, 255);
     margin-left: 20%;
     margin-right: 20%;
-    display:flexbox;
-    background-color: rgb(55, 142, 148);
+    display: flex;
+    background-color: rgba(55, 142, 148, 0.815);
     justify-content: center;
 }
